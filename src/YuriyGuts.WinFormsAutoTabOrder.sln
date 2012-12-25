@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuriyGuts.WinFormsAutoTabOrder", "YuriyGuts.WinFormsAutoTabOrder.csproj", "{9644DF2F-81B4-4DAE-8C6D-2DE218BF16D4}"
 EndProject
 Global
