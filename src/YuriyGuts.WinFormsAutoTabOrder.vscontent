@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSContent xmlns="http://schemas.microsoft.com/developer/vscontent/2005">
+  <Content>
+    <ContentVersion>2.0</ContentVersion>
+    <Description>Provides the automatic tab order arrangement feature for Windows Forms Designer</Description>
+    <DisplayName>Windows Forms Auto Tab Order Add-in</DisplayName>
+    <FileContentType>Addin</FileContentType>
+    <FileName>YuriyGuts.WinFormsAutoTabOrder.dll</FileName>
+    <FileName>YuriyGuts.WinFormsAutoTabOrder.AddIn</FileName>
+  </Content>
+</VSContent>
